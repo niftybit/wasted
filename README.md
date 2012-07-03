@@ -1,4 +1,4 @@
 wasted
 ======
 
-Lorem asdfdfasfds ipsum..
+Lorem asdfdfasfds..
